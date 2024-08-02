@@ -1,5 +1,5 @@
-# Gender_Classification_Using_Fastai
-gender classifier using fastai library.
+# Gender Classification Using Fastai
+Gender classifier using fastai library.
 This project is a Gender Image Classifier built using the FastAI library. The classifier uses a ResNet-18 model to differentiate between male and female faces. The data for training and testing is gathered from Fastbook, and various data processing techniques are applied to ensure the accuracy of the model.
 
 ## Table of Contents
